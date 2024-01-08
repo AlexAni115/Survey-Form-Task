@@ -1,1 +1,1 @@
-This is a simple survey for created by DOM manuplation
+This is a simple survey form created by DOM manuplation
