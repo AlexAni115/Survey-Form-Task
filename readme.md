@@ -1,1 +1,1 @@
-This is a aimpke survey for created by DOM manuplation
+This is a simple survey for created by DOM manuplation
